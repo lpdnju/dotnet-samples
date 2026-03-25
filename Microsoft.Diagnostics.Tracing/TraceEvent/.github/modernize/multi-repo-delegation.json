@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-25T11:47:17.8238374Z",
+  "status": "in_progress",
+  "repos": [
+    {
+      "name": "dotnet-samples.Microsoft.Diagnostics.Tracing.TraceEvent",
+      "url": "https://github.com/lpdnju/dotnet-samples.git",
+      "clonePath": "C:\\workspace\\playground\\local-demo\\.github\\modernize\\repos-20260325194645\\dotnet-samples\\Microsoft.Diagnostics.Tracing\\TraceEvent",
+      "statusFileDirectory": "C:\\workspace\\playground\\local-demo\\.github\\modernize\\repos-20260325194645\\dotnet-samples\\.github\\modernize\\delegation\\Microsoft.Diagnostics.Tracing_TraceEvent",
+      "sessionId": "c5f0b890-cfc4-450b-8582-1d60dd1c9c03",
+      "detectedLanguage": "DotNet",
+      "relativePath": "Microsoft.Diagnostics.Tracing/TraceEvent"
+    }
+  ]
+}
