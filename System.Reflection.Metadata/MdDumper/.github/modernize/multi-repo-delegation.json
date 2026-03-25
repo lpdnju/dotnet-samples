@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-03-25T11:00:35.9026526Z",
+  "status": "in_progress",
+  "repos": [
+    {
+      "name": "dotnet-samples.System.Reflection.Metadata.MdDumper",
+      "url": "https://github.com/lpdnju/dotnet-samples.git",
+      "clonePath": "C:\\workspace\\playground\\local-demo\\.github\\modernize\\repos-20260325185928\\dotnet-samples\\System.Reflection.Metadata\\MdDumper",
+      "statusFileDirectory": "C:\\workspace\\playground\\local-demo\\.github\\modernize\\repos-20260325185928\\dotnet-samples\\.github\\modernize\\delegation\\System.Reflection.Metadata_MdDumper",
+      "sessionId": "d7f0f200-3175-4717-9fda-ab63db0d52b2",
+      "detectedLanguage": "DotNet",
+      "relativePath": "System.Reflection.Metadata/MdDumper"
+    }
+  ]
+}
